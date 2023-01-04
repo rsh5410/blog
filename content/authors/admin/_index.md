@@ -65,7 +65,7 @@ social:
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: uploads/RSH_CV_.pdf
+#   link: uploads/RSH_CV_230104.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "rsh5410@snu.ac.kr"
@@ -80,4 +80,4 @@ He is a co-author of two journal papers–PNAS and Mol Brain(~2021)– and a rec
 
 He likes to talk and discuss with all neuro-folks. Glad to see you on this site!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/RSH_CV_.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/RSH_CV_230104.pdf" "newtab" >}}CV{{< /staticref >}}.
