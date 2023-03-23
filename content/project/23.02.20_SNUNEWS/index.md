@@ -15,7 +15,7 @@ image:
 links: 
 
 url_code: ""
-url_pdf: "uploads/206205.PDF"
+url_pdf: "uploads/206205.pdf"
 url_slides: ""
 url_video: ""
 
