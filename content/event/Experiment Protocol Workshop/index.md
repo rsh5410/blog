@@ -19,9 +19,8 @@ Today, Kitae Kim and I will show you how to immunostain β-tubulin on Cos-7 cell
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2022-03-26T14:00:00Z'
-date_end: '2022-03-26T18:00:00Z'
-all_day: false
+date: '2022-03-26T00:00:00Z'
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 # publishDate: '2017-01-01T00:00:00Z'

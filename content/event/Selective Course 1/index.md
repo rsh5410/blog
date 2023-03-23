@@ -23,8 +23,7 @@ Course Outline: This subject can provide broad perspectives on medicine for stud
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
 date: '2022-05-06T13:00:00Z'
-date_end: '2022-03-27T17:00:00Z'
-all_day: false
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 # publishDate: '2017-01-01T00:00:00Z'
