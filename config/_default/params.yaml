@@ -99,6 +99,11 @@ features:
         latitude: '37.58094'
         longitude: '126.99960'
 
+marketing:
+  analytics:
+    google_analytics: 'G-E7ZWWV4CHS'
+
+
 # Extensions
 
 extensions:
