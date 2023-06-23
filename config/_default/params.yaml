@@ -21,7 +21,7 @@ marketing:
     description: 'Seung Hyun Ryu.'
     twitter: ''
   analytics:
-    google_analytics: ''
+    google_analytics: 'G-E7ZWWV4CHS'
     baidu_tongji: ''
   verification:
     google: ''
@@ -99,9 +99,6 @@ features:
         latitude: '37.58094'
         longitude: '126.99960'
 
-marketing:
-  analytics:
-    google_analytics: 'G-E7ZWWV4CHS'
 
 
 # Extensions
