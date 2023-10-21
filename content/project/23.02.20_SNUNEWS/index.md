@@ -1,6 +1,6 @@
 ---
 title: 성공을 새기고 떠나는 당신들을 바라봅니다 (Admiring Those Who Leave a Mark of Success and Move On)
-summary: Snunews no.2062 Column (23.02.20)
+summary: SNUNEWS no.2062 Column (23.02.20)
 tags:
 - Columns
 date: "2023-02-20T00:00:00Z"

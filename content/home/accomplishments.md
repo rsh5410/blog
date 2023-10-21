@@ -35,7 +35,7 @@ item:
   date_end: ""
   date_start: "2016-09-01"
   description: Annual Academic Conference on Control and Instrumentation Engineering <br>(Poster - Sound Activated Multi Color LED Cube)
-  organization: Korea University.
+  organization: Korea University
   organization_url: 
   title: Poster Award 
   url: 
@@ -43,7 +43,7 @@ item:
   date_end: ""
   date_start: "2017-09-01"
   description: Annual Academic Conference on Electro-Mechanical Systems Engineering <br>(Poster - Self Healthcare Device Using EOG Measurement)
-  organization: Korea University.
+  organization: Korea University
   organization_url: 
   title: Poster Award 
   url: 
@@ -51,9 +51,17 @@ item:
   date_end: ""
   date_start: "2018-09-01"
   description: Annual Capstone Design Conference <br>(Poster - Image Based Doorlock System)
-  organization: Korea University.
+  organization: Korea University
   organization_url: 
   title: Poster Award 
+  url: 
+- certificate_url: 
+  date_end: ""
+  date_start: "2021-03-02"
+  description: 
+  organization: Seoul National University
+  organization_url: 
+  title: Merit-based Scholarship
   url: 
 - certificate_url: 
   date_end: "2023-02-28"
@@ -61,7 +69,14 @@ item:
   description: 
   organization: Seoul National University
   organization_url: 
-  title: Research Grant of Basic Science Research Program
+  title: Fellowship for Fundamental Academic Fields
+  url: 
+- certificate_url: 
+  date_start: "2023-09-09"
+  description: 
+  organization: 11th IBRO World Congress of Neuroscience IBRO 2023
+  organization_url: 
+  title: IBRO World Congress Travel Grant Award
   url: 
 
 design:

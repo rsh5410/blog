@@ -1,6 +1,6 @@
 ---
 title: ‘나는 안 해도...’ 당연히 괜찮지 않다 ("I don't have to..." Of course, it's not okay)
-summary: Kunews no.1850 Column (18.05.08)
+summary: KUNEWS no.1850 Column (18.05.08)
 tags:
 - Columns
 date: "2018-05-08T00:00:00Z"

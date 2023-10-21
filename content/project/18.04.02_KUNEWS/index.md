@@ -1,6 +1,6 @@
 ---
 title: 어제를 기억하기에 오늘이 행복하다 (I'm happy today because I remember yesterday)
-summary: Kunews no.1848 Column (18.04.02)
+summary: KUNEWS no.1848 Column (18.04.02)
 tags:
 - Columns
 date: "2018-04-02T00:00:00Z"

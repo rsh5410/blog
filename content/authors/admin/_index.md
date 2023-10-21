@@ -26,10 +26,10 @@ interests:
 education:
   courses:
   - course: M.S. in Interdisciplinary Program in Neuroscience 
-    institution: Seoul National University 
-    year: 2023 (expected)
-  - course: B.E. in Department of Control and Instrumentation Engineering and Department of Biomedical Engineering (double major)
-    institution: Korea University
+    institution: Seoul National University, KR
+    year: 2023
+  - course: B.E. in Control and Instrumentation Engineering and Biomedical Engineering (double major)
+    institution: Korea University, KR
     year: 2020
 
 # Social/Academic Networking
@@ -68,7 +68,7 @@ social:
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: uploads/RSH_CV_230320.pdf
+#   link: uploads/RSH_CV_231021_.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "rsh5410@snu.ac.kr"
@@ -79,8 +79,8 @@ highlight_name: true
 
 Seung Hyun Ryu is a graduate student of neuroscience at the Seoul National University. He entered the Laboratory of Neural Functions and Bio-imaging with an interest in neural mechanisms and neurophysiology. His current research interests include finding presynaptic trafficking mechanisms and presynaptic homeostatic plasticity (PHP).
 
-He is a co-author of journal papers–PNAS(2021,2023) Mol Brain(2021), and Cell Death Discov(2022)– and a recipient of many honors and awards, including the Research Grant of Basic Science Research Program(2022-2023). He was also a teaching assistant in General physics(2017), Seminars in neuroscience 1,2(2022-2023), and Principles of neurosciences 1,2(2022).
+He is a co-author of journal papers–PNAS(2021,2023) Mol Brain(2021), Cell Death Discov(2022), and Nat Methods(2023)– and a recipient of many honors and awards, including the Fellowship for Fundamental Academic Fields(2022-2023). He was also a teaching assistant in General physics(2017), Seminars in neuroscience 1,2(2022-2023), and Principles of neurosciences 1,2(2022).
 
 He likes to talk and discuss with all neuro-folks. Glad to see you on this site!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/RSH_CV_230320.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/RSH_CV_231021_.pdf" "newtab" >}}CV{{< /staticref >}}.

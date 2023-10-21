@@ -1,6 +1,6 @@
 ---
 title: 오늘도 네가 있어 고맙다 (Thank you for living life together)
-summary: Kunews no.1853 Column (18.05.28)
+summary: KUNEWS no.1853 Column (18.05.28)
 tags:
 - Columns
 date: "2018-05-28T00:00:00Z"

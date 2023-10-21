@@ -1,6 +1,6 @@
 ---
 title: 나는 '꼰대'입니다 (I am 'KKONDAE')
-summary: Kunews no.1844 Column (18.03.05)
+summary: KUNEWS no.1844 Column (18.03.05)
 tags:
 - Columns
 date: "2018-03-05T00:00:00Z"

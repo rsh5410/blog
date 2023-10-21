@@ -1,6 +1,6 @@
 ---
 title: 당신을 위한 마음이면 충분하다 (With all heart is fully enough)
-summary: Kunews no.1852 Column (18.05.21)
+summary: KUNEWS no.1852 Column (18.05.21)
 tags:
 - Columns
 date: "2018-05-21T00:00:00Z"

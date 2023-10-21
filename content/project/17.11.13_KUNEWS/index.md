@@ -1,6 +1,6 @@
 ---
 title: 누구를 위한 삶인가 (Who are you living for)
-summary: Kunews no.1839 Column (17.11.13)
+summary: KUNEWS no.1839 Column (17.11.13)
 tags:
 - Columns
 date: "2017-11-13T00:00:00Z"

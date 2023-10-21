@@ -1,6 +1,6 @@
 ---
 title: 자연에 대한 의문, 답을 찾아온 길 (Questions about nature, the way to find the answer)
-summary: Kunews no.1846 Column (18.03.19)
+summary: KUNEWS no.1846 Column (18.03.19)
 tags:
 - Columns
 date: "2018-03-19T00:00:00Z"
