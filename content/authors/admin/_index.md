@@ -6,7 +6,7 @@ title: Seung Hyun Ryu
 superuser: true
 
 # Role/position/tagline
-role: Graduate Student of Neuroscience
+role: Researcher in Seoul National University College of Medicine
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -14,22 +14,22 @@ organizations:
   url: https://www.snu.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Neuroscience, Molecular biology, and Bio-imaging.
+bio: My research focuses on molecular and cellular neuroscience using bio-imaging approaches.
 
 # Interests to show in About widget
 interests:
 - Neuroscience
+- Molecular and cellular biology
 - Physiology
-- Molecular biology
 
 # Education to show in About widget
 education:
   courses:
   - course: M.S. in Interdisciplinary Program in Neuroscience 
-    institution: Seoul National University, KR
+    institution: Seoul National University
     year: 2023
-  - course: B.E. in Control and Instrumentation Engineering and Biomedical Engineering (double major)
-    institution: Korea University, KR
+  - course: B.E. in Control and Instrumentation Engineering and Biomedical Engineering 
+    institution: Korea University
     year: 2020
 
 # Social/Academic Networking
@@ -68,7 +68,7 @@ social:
 # and uncomment the lines below.
 # - icon: cv
 #   icon_pack: ai
-#   link: uploads/RSH_CV_231021_.pdf
+#   link: uploads/RSH_CV_250929.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "rsh5410@snu.ac.kr"
@@ -77,10 +77,8 @@ email: "rsh5410@snu.ac.kr"
 highlight_name: true
 ---
 
-Seung Hyun Ryu is a graduate student of neuroscience at the Seoul National University. He entered the Laboratory of Neural Functions and Bio-imaging with an interest in neural mechanisms and neurophysiology. His current research interests include finding presynaptic trafficking mechanisms and presynaptic homeostatic plasticity (PHP).
+Welcome! I'm Seung Hyun Ryu, a researcher at Seoul National University College of Medicine. I work in the Laboratory of Neural Functions and Bio-imaging, focusing on neural signaling mechanisms and trafficking pathways—specifically synaptic biogenesis and presynaptic homeostatic plasticity (PHP).
+I authored a research paper in Autophagy (2025) and co-authored publications in PNAS (2021, 2023), Nature Methods (2023), and many others. My work has been recognized with the Fellowship for Fundamental Academic Fields and an IBRO World Congress 2023 Travel Grant Award.
+I'm always eager to connect and discuss with neuroscientists, biologists, and also neuro-folks. Feel free to reach out!
 
-He is a co-author of journal papers–PNAS(2021,2023) Mol Brain(2021), Cell Death Discov(2022), and Nat Methods(2023)– and a recipient of many honors and awards, including the Fellowship for Fundamental Academic Fields(2022-2023). He was also a teaching assistant in General physics(2017), Seminars in neuroscience 1,2(2022-2023), and Principles of neurosciences 1,2(2022).
-
-He likes to talk and discuss with all neuro-folks. Glad to see you on this site!
-
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/RSH_CV_231021_.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/RSH_CV_250929.pdf" "newtab" >}}CV{{< /staticref >}}.

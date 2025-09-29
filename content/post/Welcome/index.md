@@ -56,4 +56,4 @@ Released under the [MIT](https://github.com/wowchemy/wowchemy-hugo-modules/blob/
 
 Thanks for take time to visit here and read my message!
 
-And. Have a nice day! :)
+And, Have a nice day! :)

@@ -22,14 +22,23 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
+  - title: Researcher
+    company: Seoul National University College of Medicine <br/>Department of Physiology and Biomedical Sciences
+    company_url: 'https://medicine.snu.ac.kr'
+    company_logo: SNU_logo
+    location: Seoul
+    date_start: '2025-06-10'
+    date_end: ''
+    description: Researched neuroscience, cellular and molecular biology.
+
   - title: Graduate student
     company: Seoul National University <br/>Interdisciplinary Program in Neuroscience M.S. Program
     company_url: 'https://snu.ac.kr'
     company_logo: SNU_logo
     location: Seoul
     date_start: '2021-03-02'
-    date_end: ''
-    description: Researched Neuroscience and Molecular biology.
+    date_end: '2023-08-31'
+    description: Researched neuroscience, cellular and molecular biology.
         
   - title: Researcher
     company: Seoul National University College of Medicine <br/>Department of Physiology and Biomedical Sciences
@@ -38,7 +47,7 @@ experience:
     location: Seoul
     date_start: '2020-03-02'
     date_end: '2021-02-28'
-    description: Researched Neuroscience and Molecular biology.
+    description: Researched neuroscience, cellular and molecular biology.
 
 design:
   columns: '2'

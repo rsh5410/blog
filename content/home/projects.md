@@ -31,6 +31,8 @@ content:
     tag: News
   - name: Columns
     tag: Columns
+  - name: Interviews
+    tag: Interviews
   - name: Other
     tag: Demo
 
