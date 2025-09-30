@@ -15,7 +15,7 @@ image:
 links: 
 
 url_code: ""
-url_pdf: "uploads/250929_BRIC_interview.pdf"
+url_pdf: "uploads/250929_BRIC_interview_.pdf"
 url_slides: ""
 url_video: ""
 

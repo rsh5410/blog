@@ -16,8 +16,8 @@ authors:
 
 # Author notes (optional)
 author_notes:
-- admin "Equal contribution"
-- Jungmihn Lee "Equal contribution"
+- "Equal contribution"
+- "Equal contribution"
 
 date: "2025-09-16T00:00:00Z"
 doi: "https://doi.org/10.1080/15548627.2025.2559689"
