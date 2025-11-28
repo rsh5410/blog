@@ -1,5 +1,5 @@
 ---
-title: 한빛사 인터뷰 (Interview_Inspiring Korean Scientists)
+title: 한빛사 인터뷰 (Interview_People shining Republic of Korea)
 summary: BRIC Hanbitsa(Inspiring Korean Scientists) interview
 tags:
 - Interviews

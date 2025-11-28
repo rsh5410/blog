@@ -81,4 +81,4 @@ Welcome! I'm Seung Hyun Ryu, a researcher at Seoul National University College o
 I authored a research paper in Autophagy (2025) and co-authored publications in PNAS (2021, 2023), Nature Methods (2023), and many others. My work has been recognized with the Fellowship for Fundamental Academic Fields and an IBRO World Congress 2023 Travel Grant Award.
 I'm always eager to connect and discuss with neuroscientists, biologists, and also neuro-folks. Feel free to reach out!
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/RSH_CV_250929.pdf" "newtab" >}}CV{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/RSH_CV_251128.pdf" "newtab" >}}CV{{< /staticref >}}.
