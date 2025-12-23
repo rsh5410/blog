@@ -26,7 +26,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 # publishDate: '2017-01-01T00:00:00Z'
 
-authors: [Seung Hyun Ryu, Jungmihn Lee, Unghwi Lee, Kitae Kim and Sunghoe Chang]
+authors: [Jungmihn Lee, Seung Hyun Ryu, Unghwi Lee, Kitae Kim and Sunghoe Chang]
 tags: [SCAMP5, AP-4, ATG9A, PI4KB/PI4KIIIβ, Presynaptic autophagy]
 
 # Is this a featured talk? (true/false)

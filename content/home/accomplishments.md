@@ -78,7 +78,13 @@ item:
   organization_url: 
   title: IBRO World Congress Travel Grant Award
   url: 
-
+- certificate_url: 
+  date_start: "2025-12-19"
+  description: 
+  organization: Seoul National University.
+  organization_url: 
+  title: Best Presentation Award
+  url: 
 design:
   columns: '2' 
 ---
